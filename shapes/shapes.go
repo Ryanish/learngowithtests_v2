@@ -2,7 +2,7 @@ package shapes
 
 import "math"
 
-// test
+// test 2
 type Rectangle struct {
 	Width  float64
 	Height float64
